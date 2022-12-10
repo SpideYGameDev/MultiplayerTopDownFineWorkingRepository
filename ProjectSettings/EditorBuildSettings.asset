@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Master.unity
+    guid: ec6a6af809ad85146a4550b23f4e9383
+  - enabled: 1
+    path: Assets/Scenes/IconGenerator.unity
+    guid: ce1fcfd5061776648946c708ac9e4b0a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Spawn House.unity
+    guid: 0a253c529ce0a5f48828f2247eb82b83
+  - enabled: 1
+    path: Assets/Scenes/Weapons Shop.unity
+    guid: 12d516ae6fbc7be4d9d146cb8cc813d5
+  - enabled: 1
+    path: Assets/Scenes/Upgrade Shop.unity
+    guid: c366fe33964c6c04193bd17fe955a437
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 47d6cf5978c94ee408521f0624063b52
+  m_configObjects: {}
